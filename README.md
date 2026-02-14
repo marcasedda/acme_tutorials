@@ -1,6 +1,6 @@
 # Using computers as telescopes: the NBODY6++GPU code
 
-This hands-on session focuses on the direct $N$-body code **NBODY6++GPU**, a high-performance gravitational dynamics code optimized for GPU-accelerated star cluster simulations.
+This hands-on session focuses on the direct $N$-body code **NBODY6++GPU**, a high-performance gravitational dynamics code optimised for GPU-accelerated star cluster simulations.
 
 **NBODY6++GPU** is a legacy code that has been developed now for over 60 years. Is the last of a long series of *N*-body code initiated by Sverre Aarseth in 60s (https://ui.adsabs.harvard.edu/abs/1963MNRAS.126..223A/abstract).
 A review about the code and its development over time can be found here:
