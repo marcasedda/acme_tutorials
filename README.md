@@ -37,4 +37,5 @@ https://github.com/nbody6ppgpu/Nbody6PPGPU-beijing
 
 To get the latest working version:
 ```bash
-git clone -b dev https://github.com/nbody6ppgpu/Nbody6PPGPU-beijing```
+git clone -b dev https://github.com/nbody6ppgpu/Nbody6PPGPU-beijing
+```
