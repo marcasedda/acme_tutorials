@@ -1,0 +1,105 @@
+# Open SSE regular force - rank: 0; threads: 4
+# Opening IRR_simd lib. SSE ver. - rank: 0; nmax: 6100, lmax: 500
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.008839
+[R.0 SSE Reg.F ] Nsend 392  Ngrav 602  <Ni> 683   send(s) 0.005980 grav(s) 0.916586  Perf.(Gflops) 105.153888
+[R.0 SSE Irr.F ] Ncall: 15767 <NI>: 8827 <NB>: 66.826249 grav: 0.359961 s, 23.200460 Gflops, 22.830042 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.011314
+[R.0 SSE Reg.F ] Nsend 488  Ngrav 696  <Ni> 564   send(s) 0.006939 grav(s) 0.974607  Perf.(Gflops) 101.749671
+[R.0 SSE Irr.F ] Ncall: 18192 <NI>: 7909 <NB>: 67.136682 grav: 0.366752 s, 23.541248 Gflops, 20.160052 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.009656
+[R.0 SSE Reg.F ] Nsend 421  Ngrav 629  <Ni> 642   send(s) 0.007025 grav(s) 1.060622  Perf.(Gflops) 91.835739
+[R.0 SSE Irr.F ] Ncall: 16576 <NI>: 8421 <NB>: 66.088995 grav: 0.394406 s, 21.236724 Gflops, 23.793789 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.011975
+[R.0 SSE Reg.F ] Nsend 437  Ngrav 645  <Ni> 626   send(s) 0.008271 grav(s) 1.048875  Perf.(Gflops) 93.932213
+[R.0 SSE Irr.F ] Ncall: 15955 <NI>: 9026 <NB>: 67.636960 grav: 0.406851 s, 21.240009 Gflops, 25.499909 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.009152
+[R.0 SSE Reg.F ] Nsend 461  Ngrav 669  <Ni> 597   send(s) 0.007150 grav(s) 1.000227  Perf.(Gflops) 99.174051
+[R.0 SSE Irr.F ] Ncall: 18000 <NI>: 7838 <NB>: 66.282440 grav: 0.385563 s, 21.957043 Gflops, 21.420161 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.009518
+[R.0 SSE Reg.F ] Nsend 470  Ngrav 674  <Ni> 574   send(s) 0.007861 grav(s) 1.025957  Perf.(Gflops) 94.687101
+[R.0 SSE Irr.F ] Ncall: 17184 <NI>: 7953 <NB>: 65.676979 grav: 0.397449 s, 20.632390 Gflops, 23.129044 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.009635
+[R.0 SSE Reg.F ] Nsend 411  Ngrav 605  <Ni> 642   send(s) 0.007056 grav(s) 1.010861  Perf.(Gflops) 93.976137
+[R.0 SSE Irr.F ] Ncall: 15436 <NI>: 8823 <NB>: 66.605587 grav: 0.396401 s, 20.615656 Gflops, 25.680304 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.010229
+[R.0 SSE Reg.F ] Nsend 446  Ngrav 633  <Ni> 594   send(s) 0.007452 grav(s) 1.031400  Perf.(Gflops) 92.588778
+[R.0 SSE Irr.F ] Ncall: 15489 <NI>: 8919 <NB>: 66.934110 grav: 0.413580 s, 20.041565 Gflops, 26.701557 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.010046
+[R.0 SSE Reg.F ] Nsend 479  Ngrav 677  <Ni> 575   send(s) 0.008553 grav(s) 1.089918  Perf.(Gflops) 91.067717
+[R.0 SSE Irr.F ] Ncall: 16552 <NI>: 8619 <NB>: 67.458168 grav: 0.430182 s, 19.900090 Gflops, 25.989728 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.010288
+[R.0 SSE Reg.F ] Nsend 529  Ngrav 729  <Ni> 517   send(s) 0.008875 grav(s) 1.127457  Perf.(Gflops) 87.449424
+[R.0 SSE Irr.F ] Ncall: 18370 <NI>: 7678 <NB>: 66.620407 grav: 0.439032 s, 19.276002 Gflops, 23.899418 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.010827
+[R.0 SSE Reg.F ] Nsend 483  Ngrav 683  <Ni> 566   send(s) 0.008345 grav(s) 1.147455  Perf.(Gflops) 85.771342
+[R.0 SSE Irr.F ] Ncall: 17159 <NI>: 8221 <NB>: 66.681852 grav: 0.443328 s, 19.092159 Gflops, 25.836479 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.011244
+[R.0 SSE Reg.F ] Nsend 520  Ngrav 720  <Ni> 532   send(s) 0.009276 grav(s) 1.155775  Perf.(Gflops) 86.304917
+[R.0 SSE Irr.F ] Ncall: 17858 <NI>: 7796 <NB>: 66.384241 grav: 0.444650 s, 18.787433 Gflops, 24.899215 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.010896
+[R.0 SSE Reg.F ] Nsend 468  Ngrav 666  <Ni> 571   send(s) 0.008116 grav(s) 1.147978  Perf.(Gflops) 83.895562
+[R.0 SSE Irr.F ] Ncall: 15780 <NI>: 8596 <NB>: 65.990426 grav: 0.434041 s, 18.752405 Gflops, 27.505738 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.019956
+[R.0 SSE Reg.F ] Nsend 549  Ngrav 746  <Ni> 495   send(s) 0.008617 grav(s) 1.137029  Perf.(Gflops) 86.033600
+[R.0 SSE Irr.F ] Ncall: 19339 <NI>: 7190 <NB>: 67.105201 grav: 0.444253 s, 18.781756 Gflops, 22.971881 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.019507
+[R.0 SSE Reg.F ] Nsend 513  Ngrav 705  <Ni> 537   send(s) 0.008472 grav(s) 1.200784  Perf.(Gflops) 82.649718
+[R.0 SSE Irr.F ] Ncall: 16741 <NI>: 8350 <NB>: 66.721480 grav: 0.454234 s, 18.464917 Gflops, 27.133006 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.013133
+[R.0 SSE Reg.F ] Nsend 471  Ngrav 671  <Ni> 571   send(s) 0.008026 grav(s) 1.167689  Perf.(Gflops) 83.044396
+[R.0 SSE Irr.F ] Ncall: 17166 <NI>: 7938 <NB>: 66.143306 grav: 0.451336 s, 18.115073 Gflops, 26.292447 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.011004
+[R.0 SSE Reg.F ] Nsend 484  Ngrav 683  <Ni> 573   send(s) 0.007441 grav(s) 1.189604  Perf.(Gflops) 83.943539
+[R.0 SSE Irr.F ] Ncall: 16786 <NI>: 8385 <NB>: 66.956097 grav: 0.454338 s, 18.589385 Gflops, 27.066474 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.011212
+[R.0 SSE Reg.F ] Nsend 473  Ngrav 673  <Ni> 578   send(s) 0.007555 grav(s) 1.161548  Perf.(Gflops) 84.850630
+[R.0 SSE Irr.F ] Ncall: 17249 <NI>: 7908 <NB>: 66.424375 grav: 0.444417 s, 18.416588 Gflops, 25.764826 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.010998
+[R.0 SSE Reg.F ] Nsend 539  Ngrav 737  <Ni> 510   send(s) 0.008512 grav(s) 1.178356  Perf.(Gflops) 84.056319
+[R.0 SSE Irr.F ] Ncall: 17564 <NI>: 7905 <NB>: 66.786375 grav: 0.453212 s, 18.381746 Gflops, 25.803463 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.010918
+[R.0 SSE Reg.F ] Nsend 492  Ngrav 691  <Ni> 563   send(s) 0.008354 grav(s) 1.222021  Perf.(Gflops) 81.698768
+[R.0 SSE Irr.F ] Ncall: 16539 <NI>: 8457 <NB>: 66.390052 grav: 0.455314 s, 18.432163 Gflops, 27.529727 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.010431
+[R.0 SSE Reg.F ] Nsend 571  Ngrav 773  <Ni> 486   send(s) 0.009450 grav(s) 1.195908  Perf.(Gflops) 83.562779
+[R.0 SSE Irr.F ] Ncall: 18138 <NI>: 7512 <NB>: 65.855571 grav: 0.450684 s, 18.141483 Gflops, 24.847493 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.010793
+[R.0 SSE Reg.F ] Nsend 468  Ngrav 654  <Ni> 571   send(s) 0.007971 grav(s) 1.144685  Perf.(Gflops) 84.073029
+[R.0 SSE Irr.F ] Ncall: 15905 <NI>: 8345 <NB>: 65.778053 grav: 0.439835 s, 18.106034 Gflops, 27.653887 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.013154
+[R.0 SSE Reg.F ] Nsend 526  Ngrav 730  <Ni> 532   send(s) 0.008993 grav(s) 1.225608  Perf.(Gflops) 82.323379
+[R.0 SSE Irr.F ] Ncall: 19063 <NI>: 7534 <NB>: 67.632534 grav: 0.472092 s, 18.253464 Gflops, 24.764828 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.010637
+[R.0 SSE Reg.F ] Nsend 543  Ngrav 746  <Ni> 521   send(s) 0.009016 grav(s) 1.257559  Perf.(Gflops) 81.092748
+[R.0 SSE Irr.F ] Ncall: 17106 <NI>: 8278 <NB>: 66.434724 grav: 0.469325 s, 18.104567 Gflops, 27.436270 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.011097
+[R.0 SSE Reg.F ] Nsend 508  Ngrav 709  <Ni> 543   send(s) 0.008259 grav(s) 1.229775  Perf.(Gflops) 80.742276
+[R.0 SSE Irr.F ] Ncall: 18532 <NI>: 7376 <NB>: 66.097978 grav: 0.457513 s, 17.927505 Gflops, 24.687709 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.011321
+[R.0 SSE Reg.F ] Nsend 542  Ngrav 734  <Ni> 514   send(s) 0.008930 grav(s) 1.203500  Perf.(Gflops) 83.382293
+[R.0 SSE Irr.F ] Ncall: 17386 <NI>: 8075 <NB>: 67.077395 grav: 0.460886 s, 18.279057 Gflops, 26.509017 usec
+[R.0 AVX Pot.A] Ni 5999  NTOT 5999  pot(s) 0.011735
+[R.0 SSE Reg.F ] Nsend 522  Ngrav 717  <Ni> 537   send(s) 0.008701 grav(s) 1.217205  Perf.(Gflops) 83.017677
+[R.0 SSE Irr.F ] Ncall: 17841 <NI>: 7903 <NB>: 66.808283 grav: 0.462206 s, 18.303361 Gflops, 25.906936 usec
+
+Program received signal SIGSEGV: Segmentation fault - invalid memory reference.
+
+Backtrace for this error:
+#0  0x75d16c623e59 in ???
+#1  0x75d16c622e75 in ???
+#2  0x75d16c24532f in ???
+	at ./signal/../sysdeps/unix/sysv/linux/x86_64/libc_sigaction.c:0
+#3  0x75d16c8c6c7b in ???
+#4  0x75d16c8c8815 in ???
+#5  0x75d16c8be057 in ???
+#6  0x75d16c8be592 in ???
+#7  0x5f917821a934 in ???
+#8  0x5f91781f1f66 in ???
+#9  0x5f917818edce in ???
+#10  0x5f917818e51e in ???
+#11  0x75d16c22a1c9 in __libc_start_call_main
+	at ../sysdeps/nptl/libc_start_call_main.h:58
+#12  0x75d16c22a28a in __libc_start_main_impl
+	at ../csu/libc-start.c:360
+#13  0x5f917818e5c4 in ???
+#14  0xffffffffffffffff in ???
