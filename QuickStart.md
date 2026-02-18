@@ -38,5 +38,6 @@ cp $PATH_TO_DOWNLOAD/examples/N10k_noDat10.inp TEST/exec
 
 **Run your first simulation**
 ```bash
-./nbody6++.sse < N10k_noDat10.inp 1> run_test.out 2> run_test.err &
+i=$(($$+1000000))
+OMP_NUM_THREADS=4 ./nbody6++.sse < N10k_noDat10.inp 1> run_Arca."$i".out 2> run_Arca."$i".err &
 ```
